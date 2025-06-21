@@ -10,8 +10,11 @@ Utilizei dos seguintes recursos:
 -P5js
 
 -O Comando de importar imagens e áudios de javascript
+
 -A própria biblioteca do P5js que auxilia os usuários a utilizarem os comandos de javascript
+
 -Muitas... MUITAS pesquisas no google e photoshop pra fazer as imagens
+
 -Determinação, pois não foi fácil
 
 Isso foi tudo que utilizei.
